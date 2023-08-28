@@ -8,7 +8,9 @@
 
 [Documentação](https://docs.google.com/document/d/15FYtIashOtWo4Ox1Z2NLVu0KAhjWonLE-BkQuA0Jt4I/edit?usp=sharing)
 
-[Ideia do Projeto](https://docs.google.com/document/d/15GkXD5FE-ZkIk-qnmxSfJkBloKQtZ5bcMbKezhgC-xs/edit?usp=sharing)
+[Backlog](https://docs.google.com/document/d/15GkXD5FE-ZkIk-qnmxSfJkBloKQtZ5bcMbKezhgC-xs/edit?usp=sharing)
+
+
 
 
  
