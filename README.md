@@ -1,5 +1,4 @@
-# PI_DEVOPS
-repositório da disciplina de PI
+# PI_DEVOPS - Cariri Adota! (repositório)
 
 Quadros no Trello: https://trello.com/b/DYE9e4cC/pi-devops-adota-carir%C3%AD
 
