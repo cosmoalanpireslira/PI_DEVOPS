@@ -1,6 +1,6 @@
 # PI_DEVOPS
 repositório da disciplina de PI
 
-https://trello.com/b/DYE9e4cC/pi-devops-adota-carir%C3%AD
+Quadros no Trello: https://trello.com/b/DYE9e4cC/pi-devops-adota-carir%C3%AD
 
-<a href=“[https://trello.com/b/DYE9e4cC/pi-devops-adota-carir%C3%AD](https://trello.com/b/DYE9e4cC/pi-devops-adota-carir%C3%AD)https://trello.com/b/DYE9e4cC/pi-devops-adota-carir%C3%AD“>Flex Grid</a>
+Arquivos no Google drive: https://drive.google.com/drive/u/0/folders/1JKWfKrWJCHQZWZzOat6vzvUu0B2s_R9M
