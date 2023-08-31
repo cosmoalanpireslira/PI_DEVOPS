@@ -1,4 +1,4 @@
-# PI_DEVOPS - Adota Cariri! <h1> (repositório) 
+# PI_DEVOPS - Adota Cariri!<h1>
 
 # Links úteis <h2>
 
