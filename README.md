@@ -2,7 +2,7 @@
 
 # Links úteis <h2>
 
-[Quadros das atvidades no Trello]([[https://trello.com/b/DYE9e4cC/pi-devops-adota-carir%C3%AD](https://trello.com/b/ffWOn5Vm/adota-cariri)](https://trello.com/b/ffWOn5Vm/adota-cariri))
+[Quadros das atvidades no Trello](https://trello.com/c/lxPaSVNX/1-documenta%C3%A7%C3%A3o)
 
 [Pasta de arquivos no Drive]([https://drive.google.com/drive/u/0/folders/1JKWfKrWJCHQZWZzOat6vzvUu0B2s_R9M](https://drive.google.com/drive/folders/1Abr0c9Uyynpwj6P3RiipxUwwVRmuMPDy?usp=drive_link))
 
