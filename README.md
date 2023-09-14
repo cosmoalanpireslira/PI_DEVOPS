@@ -1,4 +1,4 @@
-# PI_DEVOPS - Adota Cariri!<h1>
+# PI_DEVOPS - Resgata PetCariri!<h1>
 
 # Links úteis <h2>
 
