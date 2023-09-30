@@ -10,7 +10,7 @@
 
 [Modelo Canvas](https://docs.google.com/document/d/1UJlHrpfKCRcbPsGQAtmYXyWB9o64vFVRW6Q99d_bTI8/edit?usp=sharing)
 
-[Documentação](https://docs.google.com/document/d/1UJlHrpfKCRcbPsGQAtmYXyWB9o64vFVRW6Q99d_bTI8/edit?usp=sharing)
+[Documentação](https://docs.google.com/document/d/15FYtIashOtWo4Ox1Z2NLVu0KAhjWonLE-BkQuA0Jt4I/edit?usp=sharing)
 
 [Grupo de discurção](https://chat.whatsapp.com/FM77r6wIfMR9ypEdWhxQMe)
 
