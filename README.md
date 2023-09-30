@@ -1,8 +1,8 @@
 # PI DEVOPS: Adopt Pet <h1>
 
-# Links úteis <h2>
-
 [Quadros das atvidades no Trello](https://trello.com/invite/b/ffWOn5Vm/ATTIf4a743b256672ec11d9afcef14fa6588ED0B0001/pi-adoptpet)
+
+# Links úteis <h2>
 
 [Backlog](https://docs.google.com/document/d/15GkXD5FE-ZkIk-qnmxSfJkBloKQtZ5bcMbKezhgC-xs/edit?usp=sharing)
 
