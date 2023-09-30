@@ -12,6 +12,8 @@
 
 [Documentação](https://docs.google.com/document/d/1UJlHrpfKCRcbPsGQAtmYXyWB9o64vFVRW6Q99d_bTI8/edit?usp=sharing)
 
+[Link do Grupo](https://chat.whatsapp.com/FM77r6wIfMR9ypEdWhxQMe)
+
 
 
 
